@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+body {
+  background-color: rgb(213, 213, 213);
+  font-family: "Open Sans", sans-serif;
+}
+
+.rectangle {
+  height: 600px;
+  width: 400px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+}
+
+img {
+  width: 370px;
+  height: 370px;
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: x-large;
+  font-weight: 900;
+}
+
+p {
+  text-align: center;
+  font-weight: 100;
+}
